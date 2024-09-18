@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently working as a PhD student at TU Wien.<br>I'm currently learning about NN in ab initio molecular dynamics<br>Ask about physics and computational science
-
+🎓 PhD student at TU Wien
+🧠 Exploring neural networks in ab initio molecular dynamics
+💻 Passionate about physics & computational science—ask me anything!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Christoforos Eseroglou) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrisanem96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Christoforos Eseroglou) 
