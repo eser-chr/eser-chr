@@ -1,6 +1,9 @@
 # 💫 About Me:
+
 🎓 PhD student at TU Wien
+
 🧠 Exploring neural networks in ab initio molecular dynamics
+
 💻 Passionate about physics & computational science—ask me anything!
 
 ## 🌐 Socials:
