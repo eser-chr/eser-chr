@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🎓 PhD student at TU Wien
+🎓 PhD candidate at TU Wien specializing in **Machine Learning for Materials Science**.
+⚡ Researching **Deep Reinforcement Learning** and accelerating training of **MLIP** with HPC.  
+💻 Skilled in [see tech stack below] and **Slurm/MPI clusters**.  
+🚀 Passionate about applying ML and HPC to solve large-scale physics and engineering problems.
 
-🧠 Exploring neural networks in ab initio molecular dynamics
-
-💻 Passionate about physics & computational science—ask me anything!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Christoforos Eseroglou) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrisanem96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Christoforos Eseroglou) 
