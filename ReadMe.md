@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 PhD candidate at TU Wien specializing in **Machine Learning for Materials Science**.
+🎓 PhD candidate at TU Wien specializing in **Machine Learning for Materials Science**.  
 ⚡ Researching **Deep Reinforcement Learning** and accelerating training of **MLIP** with HPC.  
 💻 Skilled in [see tech stack below] and **Slurm/MPI clusters**.  
 🚀 Passionate about applying ML and HPC to solve large-scale physics and engineering problems.
